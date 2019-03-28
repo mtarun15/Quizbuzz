@@ -2,4 +2,4 @@
 Cloud Hosting Web Application
 
 
-Materialize CSS from scratch Udemy project by Brad Traversy.
+Materialize CSS from Scratch Udemy project by Brad Traversy.
